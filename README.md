@@ -1,7 +1,11 @@
 # Data-Structures-and-Algorithims-Homeworks
 
 
+
+Sinan Elveren : 
+
     HW1 - Design and implement simple hotel management system
+
 
 Design and implement simple hotel management system. The System has users that
 recepcionist and guests. Guests and recepccionist has abilities that can book a room, cancel
@@ -19,21 +23,26 @@ When if Guest choose Booking Menu, system will find first emty room and will res
 this room(System is checking from room number 1 until last). So if Guest has been booked
 succesfuly or not, program will show that on interface as recervation info(GuestID, GuestName,
 RoomNumber).
+
 When if Guest choose Cancel Booking Menu, system will check if it's really reserved and
 will cancel booking. İf it 's succesfully(or not) end, prrogram will show that. Guest must know own
 gust ID if they can cancel booking.
+
 When if users choose Recepcionist Menu, system will ask recepcionist login info. It's default
 as name:“admin” pass:“admin”. If recepcionist has been login succesfuly, will see 6 choose on
 recepcionist menu that Booking(1), Cancel Booking(2), CheckIn(3), CheckOut(4),
 ShowBooking(5), GoBack(0).
+
 For Booking and Cancel Booking Menu is smilar like Guest. İf recepcionist choose booking
 progrom will ask guest name for make booking. At the same time,system will keep same
 information like guest.
+
 If recepcionist choose checkIn orCheckOut menu, System will ask GuestID and
 RoomNumber. After system check this information, if there are a booking given info, system will
 make check in.if there are no booking, system will immediately create a boking and will make
 check in. If recepcionist choosed checkout, system will cancel reservation or delete guest record if
 there are a reservation.
+
 
     HW3 - a) Design a courses structer, b)extend linkedlist class, c) implement custom linkedlist
 
