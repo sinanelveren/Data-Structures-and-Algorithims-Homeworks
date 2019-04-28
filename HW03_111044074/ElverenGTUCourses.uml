@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement>com.ElverenGTUCourses</OriginalElement>
+  <nodes>
+    <node x="35.58333333333334" y="466.0">com.ElverenGTUCourses.GTUCourses</node>
+    <node x="0.0" y="81.5">com.ElverenGTUCourses.Course</node>
+    <node x="198.0" y="0.0">com.ElverenGTUCourses.CustomLinkedList</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="com.ElverenGTUCourses.GTUCourses" target="com.ElverenGTUCourses.CustomLinkedList">
+      <point x="135.83333333333331" y="-99.5" />
+      <point x="334.41666666666663" y="446.0" />
+      <point x="452.1666666666667" y="446.0" />
+      <point x="101.66666666666669" y="208.0" />
+    </edge>
+    <edge source="com.ElverenGTUCourses.GTUCourses" target="com.ElverenGTUCourses.Course">
+      <point x="-27.166666666666686" y="-99.5" />
+      <point x="171.41666666666666" y="446.0" />
+      <point x="148.33333333333337" y="446.0" />
+      <point x="59.33333333333337" y="126.5" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic Group" zoom="1.0" x="84.5" y="337.5" />
+  <SelectedNodes>
+    <node>com.ElverenGTUCourses.GTUCourses</node>
+  </SelectedNodes>
+  <Categories>
+    <Category>Fields</Category>
+    <Category>Constructors</Category>
+    <Category>Methods</Category>
+    <Category>Properties</Category>
+    <Category>Inner Classes</Category>
+  </Categories>
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+

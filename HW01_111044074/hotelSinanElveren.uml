@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement>com.hotelSinanElveren</OriginalElement>
+  <nodes>
+    <node x="692.0" y="492.5">com.hotelSinanElveren.Guest</node>
+    <node x="-256.0" y="327.0">com.hotelSinanElveren.Hotel</node>
+    <node x="491.25" y="0.0">com.hotelSinanElveren.SystemUsersInt</node>
+    <node x="491.25" y="194.0">com.hotelSinanElveren.SystemUsersAbs</node>
+    <node x="144.0" y="-144.0">com.hotelSinanElveren.Main</node>
+    <node x="-260.0" y="-8.0">com.hotelSinanElveren.GTUHotelManagementSystem</node>
+    <node x="330.0" y="454.0">com.hotelSinanElveren.Receptionist</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="com.hotelSinanElveren.Receptionist" target="com.hotelSinanElveren.SystemUsersAbs">
+      <point x="0.0" y="-140.5" />
+      <point x="530.0" y="418.0" />
+      <point x="580.0" y="418.0" />
+      <point x="-88.75" y="99.5" />
+    </edge>
+    <edge source="com.hotelSinanElveren.SystemUsersAbs" target="com.hotelSinanElveren.SystemUsersInt">
+      <point x="0.0" y="-99.5" />
+      <point x="0.0" y="72.0" />
+    </edge>
+    <edge source="com.hotelSinanElveren.Guest" target="com.hotelSinanElveren.SystemUsersAbs">
+      <point x="0.0" y="-100.0" />
+      <point x="807.5" y="418.0" />
+      <point x="757.5" y="418.0" />
+      <point x="88.75" y="99.5" />
+    </edge>
+    <edge source="com.hotelSinanElveren.Hotel" target="com.hotelSinanElveren.GTUHotelManagementSystem">
+      <point x="0.0" y="-275.5" />
+      <point x="0.0" y="139.5" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic Group" zoom="1.0" x="190.5" y="245.5" />
+  <SelectedNodes>
+    <node>com.hotelSinanElveren.Main</node>
+  </SelectedNodes>
+  <Categories>
+    <Category>Fields</Category>
+    <Category>Constructors</Category>
+    <Category>Methods</Category>
+    <Category>Properties</Category>
+  </Categories>
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+

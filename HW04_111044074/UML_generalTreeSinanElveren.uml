@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement>com.generalTreeSinanElveren</OriginalElement>
+  <nodes>
+    <node x="-247.25" y="168.75">com.generalTreeSinanElveren.BinaryTree</node>
+    <node x="-601.25" y="332.0">com.generalTreeSinanElveren.BinaryTree.Node</node>
+    <node x="291.75" y="104.5">com.generalTreeSinanElveren.GeneralTree</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="com.generalTreeSinanElveren.GeneralTree" target="com.generalTreeSinanElveren.BinaryTree">
+      <point x="0.0" y="-262.0" />
+      <point x="575.0" y="45.75" />
+      <point x="72.25" y="44.5" />
+      <point x="104.0" y="181.0" />
+    </edge>
+    <edge source="com.generalTreeSinanElveren.BinaryTree.Node" target="com.generalTreeSinanElveren.BinaryTree">
+      <point x="0.0" y="-99.5" />
+      <point x="-478.5" y="665.75" />
+      <point x="-145.75" y="667.0" />
+      <point x="-104.0" y="181.0" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic Group" zoom="0.9" x="136.0" y="486.88888888888886" />
+  <SelectedNodes />
+  <Categories>
+    <Category>Fields</Category>
+    <Category>Constructors</Category>
+    <Category>Methods</Category>
+    <Category>Properties</Category>
+    <Category>Inner Classes</Category>
+  </Categories>
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+

@@ -1,0 +1,55 @@
+Semester;Course Code;Course Title;ECTS Credits;GTU Credits;H+T+L
+1;XXX XXX;Teknik Olmayan Seçmeli (SSC);2;1;2+0+0
+1;CSE 101;Introduction To Computer Engineering;8;3;3+0+0
+1;CSE 107;Introduction To Computer Science Laboratory;2;1;0+0+2
+1;MATH 101;Calculus I;7;5;5+0+0
+1;PHYS 121;Physics I;6;4;3+0+0
+1;PHYS 151;Physics Laboratory I;1;1;0+0+2
+1;SSTR 101;Principles Of Atatürk And The History Of Turkish Revolution I;2;2;2+0+0
+1;TUR 101;Turkish I;2;2;2+0+0
+2;XXX XXX;Teknik Olmayan Seçmeli (SSC);2;1;2+0+0
+2;CSE 102;Computer Programming;8;4;4+0+0
+2;CSE 108;Computer Programming Laboratory;2;1;0+0+2
+2;MATH 102;Calculus II;7;5;5+0+0
+2;PHYS 122;Physics II;6;4;3+0+0
+2;PHYS 152;Physics Laboratory II;1;1;0+0+2
+2;SSTR 102;Principles Of Atatürk And The History Of Turkish Revolution II;2;2;2+0+0
+2;TUR 102;Turkish II;2;2;2+0+0
+3;CSE 241;Object Oriented Programming;9;5;3+2+0
+3;CSE 211;Discrete Mathematics;6;3;3+0+0
+3;CSE 231;Circuits And Electronics;8;4;4+0+0
+3;CSE 233;Circuits And Electronics Laboratory;2;1;0+0+2
+3;XXX XXX;Teknik Olmayan Seçmeli (SSB);3;2;2+0+0
+3;EN 111;English For Business Life;2;2;2+0+0
+4;CSE 222;Data Structures And Algorithms;9;5;4+2+0
+4;MATH 217;Linearr Algebra and Differantial Equations;8;5;4+2+0
+4;CSE 232;Logic Circuits And Design;6;3;3+0+0
+4;CSE 234;Logic Circuits And Design Laboratory;2;1;0+0+2
+4;XXX XXX;Teknik Olmayan Seçmeli (SSB);3;2;2+0+0
+4;EN 112;Academic English;2;2;2+0+0
+5;CSE 343;Software Engineering;8;4;3+2+0
+5;CSE 341;Programming Languages;6;3;3+0+0
+5;CSE 331;Computer Organizations;7;4;3+2+0
+5;CSE 321;Introduction To Algorithm Design;6;3;3+0+0
+5;XXX XXX;Teknik Olmayan Seçmeli (SSA);3;2;2+0+0
+5;ENG 300;Career Internship I;1;1;0+6+0
+6;CSE 396;Computer Engineering Project;5;2;1+2+0
+6;CSE 312;Operating Systems;6;3;3+0+2
+6;MATH 118;Probability and Statistics;6;3;3+0+0
+6;CSE 344;System Programming;3;2; 0+0+0
+6;CSE 351;Signals and Systems;6;3; 0+0+0
+6;XXX XXX;Teknik Olmayan Seçmeli (SSA);3;0;2+0+0
+7;CSE 495;Graduation Project I;6;1;4+0+0
+7;CSE 4XX;Department Elective I;6;3;3+0+0
+7;CSE 4XX;Bölüm Seçmeli II;6;3;3+0+0
+7;CSE 4XX;Bölüm Seçmeli (Temel Alan) I;6;3;3+0+0
+7;ENG 401;Occupational Health and Safety;1;1; 0+0+0
+7;XXX XXX;Teknik Olmayan Seçmeli (SSB);3;2;2+0+0
+7;ENG 400;Career Internship II;1;1;0+0+6
+8;CSE 496;Graduation Project II;6;1;4+0+0
+8;CSE 4XX;Department Elective III;6;3;3+0+0
+8;CSE 4XX;Bölüm Seçmeli IV;6;3;3+0+0
+8;CSE 4XX;Bölüm Seçmeli (Temel Alan) Seçmeli II;6;3;3+0+0
+8;ENG 402;?;1;1; 0+0+0
+8;XXX XXX;Teknik Olmayan Seçmeli (SSB);3;2;2+0+0
+8;XXX XXX;Teknik Olmayan Seçmeli (SSA);3;2;2+0+0

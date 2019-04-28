@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement>com.SinanElverenHW6.RedBlackTree</OriginalElement>
+  <nodes>
+    <node x="0.0" y="0.0">com.SinanElverenHW6.RedBlackTree.SearchTree</node>
+    <node x="146.05555555555557" y="340.0">com.SinanElverenHW6.RedBlackTree.MainQ1</node>
+    <node x="49.981481481481495" y="85.0">com.SinanElverenHW6.RedBlackTree.BinarySearchTree</node>
+    <node x="146.0" y="0.0">com.SinanElverenHW6.RedBlackTree.BinaryTree</node>
+    <node x="106.55555555555557" y="255.0">com.SinanElverenHW6.RedBlackTree.RedBlackTreeWorst</node>
+    <node x="79.0" y="170.0">com.SinanElverenHW6.RedBlackTree.BinarySearchTreeWithRotate</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="com.SinanElverenHW6.RedBlackTree.MainQ1" target="com.SinanElverenHW6.RedBlackTree.RedBlackTreeWorst">
+      <point x="-26.0" y="-17.5" />
+      <point x="172.05555555555557" y="315.0" />
+      <point x="152.30555555555557" y="315.0" />
+      <point x="-45.75" y="17.5" />
+    </edge>
+    <edge source="com.SinanElverenHW6.RedBlackTree.BinarySearchTreeWithRotate" target="com.SinanElverenHW6.RedBlackTree.BinarySearchTree">
+      <point x="0.0" y="-17.5" />
+      <point x="201.5" y="145.0" />
+      <point x="175.9814814814815" y="145.0" />
+      <point x="42.0" y="17.5" />
+    </edge>
+    <edge source="com.SinanElverenHW6.RedBlackTree.RedBlackTreeWorst" target="com.SinanElverenHW6.RedBlackTree.BinaryTree">
+      <point x="68.62499999999997" y="-17.5" />
+      <point x="266.68055555555554" y="235.0" />
+      <point x="334.5" y="235.0" />
+      <point x="334.5" y="60.0" />
+      <point x="247.66666666666666" y="60.0" />
+      <point x="40.66666666666666" y="17.5" />
+    </edge>
+    <edge source="com.SinanElverenHW6.RedBlackTree.BinarySearchTree" target="com.SinanElverenHW6.RedBlackTree.BinaryTree">
+      <point x="0.0" y="-17.5" />
+      <point x="133.9814814814815" y="60.0" />
+      <point x="166.33333333333334" y="60.0" />
+      <point x="-40.66666666666666" y="17.5" />
+    </edge>
+    <edge source="com.SinanElverenHW6.RedBlackTree.RedBlackTreeWorst" target="com.SinanElverenHW6.RedBlackTree.BinarySearchTree">
+      <point x="-68.62500000000003" y="-17.5" />
+      <point x="129.43055555555554" y="235.0" />
+      <point x="68.5" y="235.0" />
+      <point x="68.5" y="145.0" />
+      <point x="91.9814814814815" y="145.0" />
+      <point x="-42.0" y="17.5" />
+    </edge>
+    <edge source="com.SinanElverenHW6.RedBlackTree.RedBlackTreeWorst" target="com.SinanElverenHW6.RedBlackTree.BinarySearchTreeWithRotate">
+      <point x="22.87499999999997" y="-17.5" />
+      <point x="220.93055555555554" y="225.0" />
+      <point x="262.75" y="225.0" />
+      <point x="61.25" y="17.5" />
+    </edge>
+    <edge source="com.SinanElverenHW6.RedBlackTree.BinarySearchTree" target="com.SinanElverenHW6.RedBlackTree.SearchTree">
+      <point x="-56.0" y="-17.5" />
+      <point x="77.9814814814815" y="60.0" />
+      <point x="63.0" y="60.0" />
+      <point x="0.0" y="17.5" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic Group" zoom="1.0" x="167.5" y="187.5" />
+  <SelectedNodes />
+  <Categories />
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+
